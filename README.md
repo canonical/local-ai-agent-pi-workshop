@@ -3,7 +3,7 @@
 ![Cover](./cover.png)
 
 Contents:
-- `workshop.yaml`: Workshop definition, including the [Pi coding agent SDK](https://github.com/canonical/pi-sdk)
+- `workshop.yaml`: [Workshop](https://ubuntu.com/workshop) definition, including the [Pi coding agent SDK](https://github.com/canonical/pi-sdk)
 - `models.json`: Pi configuration for a local [Qwen3-Coder inference snap](https://github.com/canonical/qwen3-coder-snap)
 
 Usage:
